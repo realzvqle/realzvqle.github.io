@@ -1,6 +1,17 @@
+
+
+
+
+@font-face {
+    font-family: 'bios';
+    src: url('resources/font.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body{
     margin: 40px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'bios', arial;
     background-color: black;
 
 }
